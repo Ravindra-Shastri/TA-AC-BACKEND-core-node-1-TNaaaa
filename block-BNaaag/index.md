@@ -1,7 +1,7 @@
 writeCode
 
 1. require fs in a file(`index.js`) and use fs.readFile to read content of a file(content.md)
-
+kvfkb
 - create file whenever required on your own.
 
 ```js
